@@ -3,7 +3,7 @@
     "short_name": "Camera",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "orientation": "landscape",
+    "orientation": "portrait",
     "display": "standalone",
     "icons": [
         {
